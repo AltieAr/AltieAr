@@ -1,0 +1,11 @@
+.gmb-kiri {
+    float: left;
+}
+
+.image {
+    display: none;
+}
+
+.image.active {
+    display: block;
+}
